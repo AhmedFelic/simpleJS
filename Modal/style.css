@@ -1,0 +1,15 @@
+body{
+    margin-top: 10%;
+   text-align: center;
+}
+.modal-overlay{
+    visibility: hidden;
+    z-index: -10;
+    
+    
+}
+.open-modal{
+    visibility: visible;
+    z-index: 10;
+  
+}

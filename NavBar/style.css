@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin-left: 40%;
+}
+.container{
+    visibility: hidden;
+    background-color: rgb(144, 235, 204, 0.3);
+    width: 200px;
+    text-align: center;
+    height: 100vh;
+    
+}
+a p{
+    padding-bottom: 20px;
+   padding-top: 20px;
+}
+
+.open{
+    visibility: visible;
+    z-index: 10;
+    cursor: pointer;
+   
+}
+.button-div button{
+    width: 200px;
+    height: 30px;
+}
+.close{
+    margin-top: 20px;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}

@@ -1,0 +1,20 @@
+#txt{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    margin: auto auto;
+    cursor: pointer;
+  }
+
+#stop{
+    text-align: center;
+}
+h1{
+ 
+    text-align: center;
+    padding-bottom: 20px;
+}
+h2{
+    text-align: center;
+    padding-bottom: 20px;
+}

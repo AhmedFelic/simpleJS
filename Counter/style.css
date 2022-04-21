@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    text-align: center;
+    margin-top: 10%;
+}
+#value{
+    font-size: 50px;
+    
+}
+h1{
+    margin-bottom: 10px;
+    font-size: 50px;
+}
+.btn{
+    width: 100px;
+    margin-top: 20px;
+}

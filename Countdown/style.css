@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+.container{
+    margin: auto;
+    text-transform: uppercase;
+    background-color: rgb(244, 207, 181, 0.65);
+    width: 80%;
+    height: 150px;
+}
+h3{
+    padding-top: 40px;
+}
+p{
+    font-size: 24px;
+    font-weight: 500;
+}
