@@ -1,0 +1,49 @@
+#prviDiv{
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    margin-bottom: 20px;
+    z-index: 10;
+}
+#drugiDiv{
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    
+}
+#pracenjeSve{
+    width: 700px;
+    height: 700px;
+    position: fixed;
+    display: block;
+    top: 10%;
+    left: 40%;
+    border: 1px solid black;
+   
+   
+}
+
+#pracenje1{
+    width: 17px;
+    height: 17px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: red;
+}
+#pracenje2{
+    width: 12px;
+    height: 12px;
+    position: fixed;
+    top: 2;
+    left: 2;
+    background-color: rgb(93, 255, 98);
+}
+#pracenje3{
+    width: 6px;
+    height: 6px;
+    position: fixed;
+    top: 4;
+    left: 4;
+    background-color: rgb(73, 35, 242);
+}
